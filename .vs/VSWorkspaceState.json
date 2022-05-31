@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ASPNETAPI",
+    "\\ASPNETAPI\\ASPNETAPI",
+    "\\ASPNETAPI\\ASPNETAPI\\Controllers"
   ],
   "PreviewInSolutionExplorer": false
 }
